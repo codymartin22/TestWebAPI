@@ -9,8 +9,8 @@ using WebAPITest.DBContext;
 namespace WebAPITest.Migrations
 {
     [DbContext(typeof(WebAPIDBContext))]
-    [Migration("20201202030703_initToDoListDB")]
-    partial class initToDoListDB
+    [Migration("20201202051113_initdbsqlserver")]
+    partial class initdbsqlserver
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -2,7 +2,7 @@
 
 namespace WebAPITest.Migrations
 {
-    public partial class initToDoListDB : Migration
+    public partial class initdbsqlserver : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
