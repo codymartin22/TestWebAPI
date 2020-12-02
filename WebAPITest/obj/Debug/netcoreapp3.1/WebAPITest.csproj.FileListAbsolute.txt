@@ -152,5 +152,3 @@ E:\InternDev\CloneRepo\WebAPITest\WebAPITest\bin\Debug\netcoreapp3.1\ru\Microsof
 E:\InternDev\CloneRepo\WebAPITest\WebAPITest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\InternDev\CloneRepo\WebAPITest\WebAPITest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\InternDev\CloneRepo\WebAPITest\WebAPITest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\InternDev\CloneRepo\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.csproj.CoreCompileInputs.cache
-E:\InternDev\CloneRepo\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.MvcApplicationPartsAssemblyInfo.cache
