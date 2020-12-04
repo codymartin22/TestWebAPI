@@ -158,3 +158,4 @@ E:\InternDev\CloneRepo\WebAPITest\WebAPITest\bin\Debug\netcoreapp3.1\Microsoft.E
 E:\InternDev\CloneRepo\WebAPITest\WebAPITest\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
 E:\InternDev\CloneRepo\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.csproj.CoreCompileInputs.cache
 E:\InternDev\CloneRepo\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.MvcApplicationPartsAssemblyInfo.cache
+E:\InternDev\CloneRepo\WebAPITest\WebAPITest\bin\Debug\netcoreapp3.1\Data\city.list.json

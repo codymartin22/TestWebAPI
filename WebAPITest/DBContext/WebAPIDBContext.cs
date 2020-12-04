@@ -11,8 +11,10 @@ namespace WebAPITest.DBContext
     {
         public WebAPIDBContext(DbContextOptions<WebAPIDBContext> options) : base(options)
         {
-
+            
         }
-        public DbSet<ToDoLists> ToDoItems { get; set; }
+        public DbSet<CityInfo> Cities { get; set; }
+        public DbSet<Students> StudentsList { get; set; }
+        public DbSet<Subjects> SubjectsList { get; set; }
     }
 }
